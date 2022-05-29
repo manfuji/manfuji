@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Job opportunities
 - 💬 Ask me about javaScript
 - 📫 How to reach me: telebryt@gmail.com
-- 😄 Pronouns: Manfuji
+- 😄 Pronouns: He
 - ⚡ Fun fact:  I Play a lot with python lol (the programming language)
 -->
